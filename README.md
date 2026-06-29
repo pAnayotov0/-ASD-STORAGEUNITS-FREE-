@@ -14,4 +14,4 @@ ps-banking or qb-banking
 --
 Join in the discord for more scripts ↷ https://discord.gg/VTS6epnEa
 
-SHOWCASE OF THE RESOURCE ↷ 
+SHOWCASE OF THE RESOURCE ↷ https://youtu.be/As0u2QIo79s
